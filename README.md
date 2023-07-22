@@ -30,7 +30,7 @@ yarn dev
 
 6. Acesse a aplicação em seu navegador através do seguinte endereço:
 
-<http://localhost:5500>
+<http://localhost:5173/>
 
 ## Notas Adicionais
 
