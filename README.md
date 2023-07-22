@@ -1,6 +1,6 @@
 # Projeto React Newsletter com Tailwind CSS 🌙
 
-Bem-vindo ao repositório do projeto de uma newsletter desenvolvida em React com a estilização utilizando a poderosa biblioteca Tailwind CSS. Essa aplicação apresenta uma tela de login para acompanhar as notícias sobre os estranhos eventos ocorridos diariamente na cidade de Florença, além de apresentar um modo escuro que se adapta ao padrão de cores do seu navegador para uma experiência mais agradável em ambientes de pouca luminosidade.
+Bem-vindo ao repositório do projeto de uma newsletter desenvolvida em React com a estilização utilizando o poderoso framework Tailwind CSS. Essa aplicação apresenta uma tela de login para acompanhar as notícias sobre os estranhos eventos ocorridos diariamente na cidade de Florença, além de apresentar um modo escuro que se adapta ao padrão de cores do seu navegador para uma experiência mais agradável em ambientes de pouca luminosidade.
 
 ## Principais Características
 
