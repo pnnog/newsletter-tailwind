@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Misteriosos Avistamentos: Um Homem Saltando Pelos Telhados?",
+    "text": [
+      "Misteriosos boatos circulam por toda a cidade de Florença nos últimos dias, relatando avistamentos de um homem habilidoso pulando de telhado em telhado. Alguns dizem que ele está vestido com um traje encapuzado distintivo. Seria um ladrão experiente ou um justiceiro enigmático? Nossa equipe de reportagem está investigando o assunto e trará mais informações em breve."
+    ],
+    "tags": ["Florença", "Avistamentos"]
+  },
+  {
+    "title": "O Surgimento do Enigmático Credo Assassino?",
+    "text": [
+      "Novos relatos chegam à redação sobre uma organização secreta conhecida como 'Credo Assassino'. Rumores indicam que este grupo se dedica a lutar contra a corrupção e a injustiça que assolam nossa cidade. Eles são descritos como homens encapuzados, habilidosos e altamente treinados nas artes do combate e da furtividade. Mas, quem são esses misteriosos homens? Será que eles têm uma conexão com os recentes avistamentos do homem dos telhados? Nossa equipe está em busca de respostas."
+    ],
+    "tags": ["Credo", "Corrupção", "Injustiça"],
+    "image": "whoIs.png",
+    "alt": "Desenho de homem saltando por prédios"
+  },
+  {
+    "title": "A Caçada ao Credo Assassino Começa!",
+    "text": [" A Guarda Florentina anunciou oficialmente uma caçada em larga escala para encontrar e deter os membros do Credo Assassino. Eles afirmam que as ações desse grupo, embora altruístas em sua intenção, são ilegais e uma ameaça à estabilidade da cidade. O Credo, por sua vez, permanece esquivo e continua seus atos de justiça nas sombras. Enquanto isso, a população fica dividida em suas opiniões sobre os homens encapuzados: heróis ou foras-da-lei?"
+    ],
+    "tags": ["Caçada", "Justiça"]
+  },
+  {
+    "title": "Os Homens por Trás das Capas: Revelada a Identidade do Credo Assassino?",
+    "text": [
+      "Nossa equipe conseguiu uma informação exclusiva sobre o Credo Assassino. Descobrimos que por trás das capas encapuzadas, estão indivíduos comuns, cidadãos respeitados da nossa sociedade. Alguns deles são artesãos, outros são acadêmicos e até mesmo mercadores. Parece que o Credo é composto por homens e mulheres de diferentes origens, unidos por uma causa comum. Mas, ainda restam muitas perguntas a serem respondidas: quem os treinou? Como se organizam? Nossa investigação continua."
+    ],
+    "tags": ["Artesãos", "CausaComum"],
+    "image": "creed.png",
+    "alt": "Desenho de homem saltando por prédios"
+  },
+
+  {
+    "title": "A Ascensão de um Lendário Herói: Ezio Auditore Assume o Manto do Credo Assassino",
+    "text": [
+      "É com grande surpresa e admiração que anunciamos a identidade do homem por trás do Credo Assassino. Ele é Ezio Auditore, um jovem florentino de linhagem nobre, cuja família foi traiçoeiramente executada. Ezio, motivado pela vingança e pela busca pela verdade, assumiu o manto do Credo e se tornou uma figura lendária entre seus companheiros. Sua coragem, destreza e determinação têm sido fundamentais nas ações do Credo. O que o futuro reserva para Ezio e para o Credo Assassino? Estamos ansiosos para descobrir."
+    ],
+    "tags": ["Herói", "Verdade"],
+    "image": "ezio.png",
+    "alt": "Desenho de homem saltando por prédios"
+  }
+]
